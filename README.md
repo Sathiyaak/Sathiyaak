@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML and Model deployement**
 
-- 📫 How to reach me **sathiyaaruchamy@gmail.com**
+- 📫 How to contact me **sathiyaaruchamy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
