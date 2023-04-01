@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SATHIYA A K</h1>
 <h3 align="center">A DATA SCIENCE AND ML ASPIRANT</h3>
 
-- 🔭 I’m currently working on **Fake news detection**
+- 🔭 I’m currently working on **Object detection**
 
-- 🌱 I’m currently learning **ML and Model deployement**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to contact me **sathiyaaruchamy@gmail.com**
 
