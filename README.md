@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SATHIYA A K </h1>
 
-<h3 align="center">A DATA SCIENCE AND ML ASPIRANT</h3>
+<h3 align="center"> DATA SCIENCE AND ML ASPIRANT</h3>
 
 - 🔭 I’m currently working on **Object detection**
 
